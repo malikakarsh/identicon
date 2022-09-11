@@ -15,7 +15,13 @@ def deps do
 end
 ```
 
+## Usage
+
+```elixir
+iex -S mix
+iex> Identicon.main("elixir")
+```
+
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/identicon>.
-
